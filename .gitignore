@@ -1,0 +1,5 @@
+.astro/
+__pycache__/
+*.pyc
+airflow_settings.yaml
+.DS_Store
